@@ -1,0 +1,113 @@
+The JSON Schema media types (application/schema+json and application/schema-instance+json) will be published as an IETF RFC, which has already been adopted by the HTTP APIs working group.
+As an Incubation-status OpenJS Foundation project, we continue to work through our governance todo list to move to either At-Large or Impact status.
+The bulk of our specification will be published under a new process currently under public discussion. All are encouraged to provide feedback! Our goals with this process include:Status: WG Forming
+- Responsible AD: Barry Leiba
+- BoF proponents: Alexey Melnikov <alexey.melnikov@isode.com>, Pete Resnick <resnick@episteme.net>
+- BoF chairs: Alexey Melnikov, Seth Blank
+- Number of people expected to attend: 50
+- Length of session (1, 1.5, 2, or 2.5 hours): 100 minutes (but 50 mins will be fine)
+- Conflicts to avoid (whole Areas and/or WGs): EXTRA, JMAP, DMARC, UTA, CALEXT, WPACK, DISPATCH, SECDISPATCH, GENDISPATCH
+
+- Agenda
+   - This is likely to be a working session going over rfc5321bis and rfc5322bis issues
+
+- Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc.
+   - Mailing List: ietf-smtp@ietf.org (Archive: https://mailarchive.ietf.org/arch/browse/ietf-smtp/)
+
+   - Draft charter:
+     The base documents defining Internet messaging —
+     colloquially, email -- are RFC 5321 (protocol) and RFC 5322
+     (format). These are revisions and consolidations of prior
+     documents and were last published in 2008. They currently sit
+     at Draft Standard status, a status that actually no longer
+     exists according to current IETF procedure.
+
+     Since then some errata have accumulated (both submitted
+     to IETF and reported directly to editors), as well as comments
+     made about these documents not necessarily describing best
+     email practices. There is now exists sufficient
+     critical mass to undertake a limited review and revision of
+     these documents for the purpose of advancing them to Internet
+     Standard status.
+
+     This working group will conduct that limited review and
+     revision, and publish new versions of these documents at
+     Internet Standard status, per RFC 6410. The limited review is
+     restricted to include corrections and clarifications only, such as
+     verified errata and errata marked as "held for document update",
+     however the WG is not limited to only addressing submitted errata.
+     No new protocol extensions or amendments will be considered
+     for inclusion into 5321bis and 5322bis documents, unless
+     they are already published as RFCs.
+
+     The working group will also work on Applicability
+     Statement/BCP in parallel with 5321bis and
+     5322bis, to capture relationships to other widely deployed work
+     (for example recommended extensions) and current email
+     practices.
+
+     Upon completion of these three milestones, and assuming the
+     participants still have the momentum to do so, the working
+     group may undertake similar review and revision of other email
+     specifications. Such future word will require rechartering.
+
+
+   - Relevant drafts:
+      - Internet Message Format: https://datatracker.ietf.org/doc/draft-resnick-rfc5322bis/
+      - SMTP: https://datatracker.ietf.org/doc/draft-klensin-rfc5321bis/
+      - Applicability Statement for IETF Core Email Protocols: https://datatracker.ietf.org/doc/draft-klensin-email-core-as/Status: WG Forming
+- Responsible AD: Barry Leiba
+- BoF proponents: Alexey Melnikov <alexey.melnikov@isode.com>, Pete Resnick <resnick@episteme.net>
+- BoF chairs: Alexey Melnikov, Seth Blank
+- Number of people expected to attend: 50
+- Length of session (1, 1.5, 2, or 2.5 hours): 100 minutes (but 50 mins will be fine)
+- Conflicts to avoid (whole Areas and/or WGs): EXTRA, JMAP, DMARC, UTA, CALEXT, WPACK, DISPATCH, SECDISPATCH, GENDISPATCH
+
+- Agenda
+   - This is likely to be a working session going over rfc5321bis and rfc5322bis issues
+
+- Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc.
+   - Mailing List: ietf-smtp@ietf.org (Archive: https://mailarchive.ietf.org/arch/browse/ietf-smtp/)
+
+   - Draft charter:
+     The base documents defining Internet messaging —
+     colloquially, email -- are RFC 5321 (protocol) and RFC 5322
+     (format). These are revisions and consolidations of prior
+     documents and were last published in 2008. They currently sit
+     at Draft Standard status, a status that actually no longer
+     exists according to current IETF procedure.
+
+     Since then some errata have accumulated (both submitted
+     to IETF and reported directly to editors), as well as comments
+     made about these documents not necessarily describing best
+     email practices. There is now exists sufficient
+     critical mass to undertake a limited review and revision of
+     these documents for the purpose of advancing them to Internet
+     Standard status.
+
+     This working group will conduct that limited review and
+     revision, and publish new versions of these documents at
+     Internet Standard status, per RFC 6410. The limited review is
+     restricted to include corrections and clarifications only, such as
+     verified errata and errata marked as "held for document update",
+     however the WG is not limited to only addressing submitted errata.
+     No new protocol extensions or amendments will be considered
+     for inclusion into 5321bis and 5322bis documents, unless
+     they are already published as RFCs.
+
+     The working group will also work on Applicability
+     Statement/BCP in parallel with 5321bis and
+     5322bis, to capture relationships to other widely deployed work
+     (for example recommended extensions) and current email
+     practices.
+
+     Upon completion of these three milestones, and assuming the
+     participants still have the momentum to do so, the working
+     group may undertake similar review and revision of other email
+     specifications. Such future word will require rechartering.
+
+
+   - Relevant drafts:
+      - Internet Message Format: https://datatracker.ietf.org/doc/draft-resnick-rfc5322bis/
+      - SMTP: https://datatracker.ietf.org/doc/draft-klensin-rfc5321bis/
+      - Applicability Statement for IETF Core Email Protocols: https://datatracker.ietf.org/doc/draft-klensin-email-core-as/
